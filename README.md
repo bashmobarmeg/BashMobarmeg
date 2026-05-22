@@ -2,16 +2,16 @@
 
 ## Front-End Developer
 
-Building modern, responsive, and interactive web interfaces with clean code and strong UI focus.
+Building modern, responsive, and clean web interfaces using HTML & CSS with strong UI focus.
 
 ---
 
 ## 🚀 About Me
 
-- Front-End Developer specializing in web interfaces
-- Focused on responsive design and user experience
-- Build real-world projects with clean architecture
-- Interested in improving performance and UI quality
+- Front-End Developer specializing in web design
+- Focused on responsive layouts and clean UI
+- Build real-world projects using HTML & CSS
+- Interested in improving design quality and user experience
 
 ---
 
@@ -19,30 +19,27 @@ Building modern, responsive, and interactive web interfaces with clean code and 
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![React](https://img.shields.io/badge/React-61DAFB)
-![Git](https://img.shields.io/badge/Git-black)
 
 ---
 
 ## 📂 Projects
 
 ### 🔹 Portfolio Website
-Modern personal portfolio showcasing skills and projects.  
+Modern personal portfolio showcasing skills and work.  
 👉 Live Demo: [Add link here]  
 👉 Source Code: [Add link here]
 
 ---
 
 ### 🔹 Login Page UI
-Responsive login interface with clean design and validation.  
+Clean responsive login interface design.  
 👉 Live Demo: [Add link here]  
 👉 Source Code: [Add link here]
 
 ---
 
 ### 🔹 Calculator App
-Simple calculator built with JavaScript logic and responsive UI.  
+Simple calculator built with HTML & CSS layout styling (JS logic can be added later).  
 👉 Live Demo: [Add link here]  
 👉 Source Code: [Add link here]
 
@@ -69,5 +66,6 @@ Add your fourth project description here.
 
 ---
 
-## ⚡ Style Note
-Focused on clean UI, usability, and continuous learning in modern front-end development.
+## ⚡ Focus
+
+Clean UI, responsive design, and continuous improvement in front-end layout design.
