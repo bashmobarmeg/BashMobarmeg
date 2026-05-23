@@ -56,7 +56,7 @@ I focus on creating modern, responsive, and clean user interfaces using HTML, CS
 
 <div>
 
-<img width="220"
+<img width="190"
 src="https://komarev.com/ghpvc/?username=bashmobarmeg&label=PROFILE+VIEWS&color=0A84FF&style=for-the-badge" />
 
 </div>
