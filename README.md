@@ -52,7 +52,7 @@ I focus on creating modern, responsive, and clean user interfaces using HTML, CS
 
 ---
 
-## 👁 Visitor Counter
+##  Visitor Counter
 
 <div>
 
