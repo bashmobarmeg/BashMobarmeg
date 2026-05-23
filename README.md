@@ -34,7 +34,7 @@ I focus on creating modern, responsive, and clean user interfaces using HTML, CS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 
 </div>
 
@@ -44,9 +44,9 @@ I focus on creating modern, responsive, and clean user interfaces using HTML, CS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashmobarmeg&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashmobarmeg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -56,7 +56,7 @@ I focus on creating modern, responsive, and clean user interfaces using HTML, CS
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=bashmobarmeg&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=bashmobarmeg&label=PROFILE+VIEWS&color=0A84FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -113,7 +113,7 @@ Coming Soon...
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 
 </div>
 
@@ -123,9 +123,9 @@ Coming Soon...
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashmobarmeg&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashmobarmeg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -135,7 +135,7 @@ Coming Soon...
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=bashmobarmeg&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=bashmobarmeg&label=PROFILE+VIEWS&color=0A84FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -151,7 +151,7 @@ Coming Soon...
 
 ### 🧮 موقع الآلة الحاسبة
 
-🔗 [https://bashmobarmeg.github](https://bashmobarmeg.github)
+🔗 [https://bashmobarmeg.github.io/calculator/](https://bashmobarmeg.github.io/calculator/)
 
 ---
 
