@@ -71,7 +71,7 @@ https://bashmobarmeg.github.io/My-Portfolio/
 
 ---
 
-### 🧮 Calculator Website
+###  Calculator Website
 https://bashmobarmeg.github.io/calculator/
 
 ---
@@ -130,7 +130,7 @@ https://bashmobarmeg.github.io/My-Portfolio/
 
 ---
 
-### 🧮 موقع الآلة الحاسبة
+### موقع الآلة الحاسبة
 https://bashmobarmeg.github.io/calculator/
 
 ---
