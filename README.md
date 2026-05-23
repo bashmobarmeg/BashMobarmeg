@@ -52,7 +52,7 @@ I focus on creating modern, responsive, and clean user interfaces using HTML, CS
 
 ---
 
-## 👁️ Visitor Counter
+##  Visitor Counter
 
 <div>
 
@@ -115,7 +115,7 @@ Coming Soon...
 
 ---
 
-## 👁️ عدد الزوار
+## عدد الزوار
 
 <img width="220"
 src="https://komarev.com/ghpvc/?username=bashmobarmeg&label=PROFILE+VIEWS&color=0A84FF&style=for-the-badge" />
