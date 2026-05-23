@@ -151,53 +151,6 @@ https://bashmobarmeg.github.io/calculator/
 
 <div align="center">
 
-<div align="center">
-
-### 📘 Learning Progress
-
-<svg width="420" height="90" viewBox="0 0 420 90" xmlns="http://www.w3.org/2000/svg">
-
-  <!-- خلفية الشريط -->
-  <rect x="10" y="30" width="400" height="30" rx="15" fill="#1e293b"/>
-
-  <!-- HTML -->
-  <rect x="10" y="30" width="360" height="30" rx="15" fill="#ff5c33">
-    <animate attributeName="width" from="0" to="360" dur="2s" fill="freeze" />
-  </rect>
-
-  <!-- CSS -->
-  <rect x="10" y="30" width="280" height="30" rx="15" fill="#0a84ff" opacity="0.9">
-    <animate attributeName="width" from="0" to="280" dur="2.5s" fill="freeze" />
-  </rect>
-
-  <!-- JS -->
-  <rect x="10" y="30" width="160" height="30" rx="15" fill="#f7df1e" opacity="0.9">
-    <animate attributeName="width" from="0" to="160" dur="3s" fill="freeze" />
-  </rect>
-
-  <!-- موجة SVG متحركة -->
-  <path d="M0 50 Q 20 30 40 50 T 80 50 T 120 50 T 160 50 T 200 50 T 240 50 T 280 50 T 320 50 T 360 50 T 400 50"
-        stroke="#ffffff33"
-        fill="transparent"
-        stroke-width="2">
-    <animateTransform
-      attributeName="transform"
-      type="translate"
-      from="0 0"
-      to="-80 0"
-      dur="2s"
-      repeatCount="indefinite" />
-  </path>
-
-  <!-- Labels -->
-  <text x="20" y="25" fill="#fff" font-size="12">HTML</text>
-  <text x="120" y="25" fill="#fff" font-size="12">CSS</text>
-  <text x="240" y="25" fill="#000" font-size="12">JS</text>
-
-</svg>
-
-</div>
-
 ### ⭐ Thanks for visiting my profile
 
 </div>
