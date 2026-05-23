@@ -19,6 +19,7 @@
 ---
 
 # 🇺🇸 English
+<div id="english"></div>
 
 ## 👨‍💻 About Me
 
@@ -89,7 +90,7 @@ Coming Soon...
 
 # 🇸🇦 العربية
 
-<div dir="rtl" align="right">
+<div id="arabic" dir="rtl" align="right">
 
 ## 👨‍💻 نبذة عني
 
