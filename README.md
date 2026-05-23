@@ -1,68 +1,175 @@
-# BashMobarmeg 
+# BashMobarmeg
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Front-End+Developer;Clean+UI+Specialist;HTML+%26+CSS+Focused;Always+Learning" />
-</p>
+<div align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Building+Modern+Web+Interfaces;Turning+Ideas+Into+Professional+Websites" alt="Typing SVG" />
 
-## 🚀 About Me
-
-- Front-End Developer focused on UI and layout design  
-- Build responsive websites using HTML & CSS  
-- Interested in clean design systems  
-- Focused on improving user experience and structure  
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-<p>
+## 🌍 Language
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+[English](#-english) | [العربية](#-العربية)
 
-</p>
+</div>
 
-## 📂 Projects
+---
 
-### 🔹 Portfolio Website
-- Clean personal portfolio with modern layout  
-- Live Demo: [link]  
-- Source Code: [link]  
+# 🇺🇸 English
 
-### 🔹 Login Page UI
-- Responsive login interface design  
-- Live Demo: [link]  
-- Source Code: [link]  
+## 👨‍💻 About Me
 
-### 🔹 Calculator App
-- Simple calculator UI built with HTML & CSS  
-- Live Demo: [link]  
-- Source Code: [link]  
+Hi, I'm **BashMobarmeg**.
 
-### 🔹 Project 4
-- Add description here  
-- Live Demo: [link]  
-- Source Code: [link]  
+A Front-End Developer specialized in transforming ideas into professional web experiences.
+
+I focus on creating modern, responsive, and clean user interfaces using HTML, CSS, and JavaScript basics.
+
+---
+
+## 🚀 Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BashMobarmeg&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BashMobarmeg&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashmobarmeg&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🐍 Contribution Activity
+## Visitor Counter
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bashmobarmeg&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
+
+---
+
+## 📂 Projects
+
+### 🌐 Portfolio Website
+
+🔗 [https://bashmobarmeg.github.io/My-Portfolio/](https://bashmobarmeg.github.io/My-Portfolio/)
+
+---
+
+### 🧮 Calculator Website
+
+🔗 [https://bashmobarmeg.github.io/calculator/](https://bashmobarmeg.github.io/calculator/)
+
+---
+
+### 🔐 Login Interface
+
+Coming Soon...
+
+---
+
+## 📞 Contact
+
+* WhatsApp: 96969264
+* GitHub: [https://github.com/bashmobarmeg](https://github.com/bashmobarmeg)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile
+
+</div>
+
+---
+
+# 🇸🇦 العربية
+
+## 👨‍💻 نبذة عني
+
+مرحبًا، أنا **BashMobarmeg**.
+
+مطور Front-End متخصص في تحويل الأفكار إلى مواقع ويب احترافية.
+
+أركز على تصميم واجهات حديثة ومتجاوبة ومرتبة باستخدام HTML و CSS وأساسيات JavaScript.
+
+---
+
+## 🚀 المهارات
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 إحصائيات GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashmobarmeg&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## عدد الزوار
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bashmobarmeg&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
+
+---
+
+## 📂 المشاريع
+
+### 🌐 موقعي الشخصي
+
+🔗 [https://bashmobarmeg.github.io/My-Portfolio/](https://bashmobarmeg.github.io/My-Portfolio/)
+
+---
+
+### 🧮 موقع الآلة الحاسبة
+
+🔗 [https://bashmobarmeg.github](https://bashmobarmeg.github)
+
+---
+
+### 🔐 واجهة تسجيل الدخول
+
+قريبًا...
+
+---
+
+## 📞 التواصل
+
+* واتساب: 96969264
+* GitHub: [https://github.com/bashmobarmeg](https://github.com/bashmobarmeg)
+
+---
+
+<div align="center">
+
+### ⭐ شكرًا لزيارة البروفايل
+
+</div>
