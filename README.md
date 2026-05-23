@@ -8,13 +8,9 @@
 
 ---
 
-<div align="center">
-
 ## 🌍 Language
 
 [English](#-english) | [العربية](#-العربية)
-
-</div>
 
 ---
 
@@ -44,9 +40,9 @@ I focus on creating modern, responsive, and clean user interfaces using HTML, CS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashmobarmeg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashmobarmeg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
@@ -123,9 +119,9 @@ Coming Soon...
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashmobarmeg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashmobarmeg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
