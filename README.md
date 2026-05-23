@@ -28,7 +28,7 @@ I focus on creating modern, responsive, and clean user interfaces using HTML, CS
 
 ## 🚀 Skills
 
-<div align="center">
+<div>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 
@@ -38,7 +38,7 @@ I focus on creating modern, responsive, and clean user interfaces using HTML, CS
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
@@ -50,7 +50,7 @@ I focus on creating modern, responsive, and clean user interfaces using HTML, CS
 
 ## Visitor Counter
 
-<div align="center">
+<div>
 
 <img src="https://komarev.com/ghpvc/?username=bashmobarmeg&label=PROFILE+VIEWS&color=0A84FF&style=for-the-badge" alt="Profile Views" />
 
@@ -85,7 +85,7 @@ Coming Soon...
 
 ---
 
-<div align="center">
+<div>
 
 ### ⭐ Thanks for visiting my profile
 
@@ -107,7 +107,7 @@ Coming Soon...
 
 ## 🚀 المهارات
 
-<div align="center">
+<div>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 
@@ -117,7 +117,7 @@ Coming Soon...
 
 ## 📊 إحصائيات GitHub
 
-<div align="center">
+<div>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
@@ -129,7 +129,7 @@ Coming Soon...
 
 ## عدد الزوار
 
-<div align="center">
+<div>
 
 <img src="https://komarev.com/ghpvc/?username=bashmobarmeg&label=PROFILE+VIEWS&color=0A84FF&style=for-the-badge" alt="Profile Views" />
 
@@ -164,7 +164,7 @@ Coming Soon...
 
 ---
 
-<div align="center">
+<div>
 
 ### ⭐ شكرًا لزيارة البروفايل
 
