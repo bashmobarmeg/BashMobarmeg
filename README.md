@@ -10,7 +10,11 @@
 
 ## 🌍 Language
 
-[English](#-english) | [العربية](#-العربية)
+<div align="center">
+
+[English](#english) | [العربية](#arabic)
+
+</div>
 
 ---
 
@@ -48,11 +52,12 @@ I focus on creating modern, responsive, and clean user interfaces using HTML, CS
 
 ---
 
-## Visitor Counter
+## 👁️ Visitor Counter
 
 <div>
 
-<img src="https://komarev.com/ghpvc/?username=bashmobarmeg&label=PROFILE+VIEWS&color=0A84FF&style=for-the-badge" alt="Profile Views" />
+<img width="220"
+src="https://komarev.com/ghpvc/?username=bashmobarmeg&label=PROFILE+VIEWS&color=0A84FF&style=for-the-badge" />
 
 </div>
 
@@ -61,39 +66,30 @@ I focus on creating modern, responsive, and clean user interfaces using HTML, CS
 ## 📂 Projects
 
 ### 🌐 Portfolio Website
-
-🔗 [https://bashmobarmeg.github.io/My-Portfolio/](https://bashmobarmeg.github.io/My-Portfolio/)
+https://bashmobarmeg.github.io/My-Portfolio/
 
 ---
 
 ### 🧮 Calculator Website
-
-🔗 [https://bashmobarmeg.github.io/calculator/](https://bashmobarmeg.github.io/calculator/)
+https://bashmobarmeg.github.io/calculator/
 
 ---
 
 ### 🔐 Login Interface
-
 Coming Soon...
 
 ---
 
 ## 📞 Contact
 
-* WhatsApp: 96969264
-* GitHub: [https://github.com/bashmobarmeg](https://github.com/bashmobarmeg)
-
----
-
-<div>
-
-### ⭐ Thanks for visiting my profile
-
-</div>
+- WhatsApp: 96969264  
+- GitHub: https://github.com/bashmobarmeg  
 
 ---
 
 # 🇸🇦 العربية
+
+<div dir="rtl" align="right">
 
 ## 👨‍💻 نبذة عني
 
@@ -107,65 +103,53 @@ Coming Soon...
 
 ## 🚀 المهارات
 
-<div>
-
 <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
-
-</div>
 
 ---
 
 ## 📊 إحصائيات GitHub
 
-<div>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bashmobarmeg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashmobarmeg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
-</div>
-
 ---
 
-## عدد الزوار
+## 👁️ عدد الزوار
 
-<div>
-
-<img src="https://komarev.com/ghpvc/?username=bashmobarmeg&label=PROFILE+VIEWS&color=0A84FF&style=for-the-badge" alt="Profile Views" />
-
-</div>
+<img width="220"
+src="https://komarev.com/ghpvc/?username=bashmobarmeg&label=PROFILE+VIEWS&color=0A84FF&style=for-the-badge" />
 
 ---
 
 ## 📂 المشاريع
 
 ### 🌐 موقعي الشخصي
-
-🔗 [https://bashmobarmeg.github.io/My-Portfolio/](https://bashmobarmeg.github.io/My-Portfolio/)
+https://bashmobarmeg.github.io/My-Portfolio/
 
 ---
 
 ### 🧮 موقع الآلة الحاسبة
-
-🔗 [https://bashmobarmeg.github.io/calculator/](https://bashmobarmeg.github.io/calculator/)
+https://bashmobarmeg.github.io/calculator/
 
 ---
 
 ### 🔐 واجهة تسجيل الدخول
-
 قريبًا...
 
 ---
 
 ## 📞 التواصل
 
-* واتساب: 96969264
-* GitHub: [https://github.com/bashmobarmeg](https://github.com/bashmobarmeg)
+- واتساب: 96969264  
+- GitHub: https://github.com/bashmobarmeg  
+
+</div>
 
 ---
 
-<div>
+<div align="center">
 
-### ⭐ شكرًا لزيارة البروفايل
+### ⭐ Thanks for visiting my profile
 
 </div>
