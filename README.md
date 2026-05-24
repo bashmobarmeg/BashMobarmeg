@@ -1,5 +1,4 @@
 # BashMobarmeg
-## Do you have a project or business and want to promote it? Create a website for it now with BashMobarmeg.
 
 <div align="center">
 
@@ -18,6 +17,7 @@
 </div>
 
 ---
+## Do you have a project or business and want to promote it? Create a website for it now with BashMobarmeg.
 
 # 🇺🇸 English
 <div id="english"></div>
