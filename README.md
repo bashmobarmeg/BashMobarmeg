@@ -1,6 +1,6 @@
 # BashMobarmeg
-## لديك مشروع او عمل وتريد ان تُشهره ؟ انشئ موقعاً له الآن مع BashMobarmeg 
-## Do you have a project or business and want to promote it? Create a website for it now with BashMobarmeg.
+## لديك مشروع او عمل وتريد ان تُشهره ؟ انشئ موقعاً له الآن مع BashMobarmeg | Do you have a project or business and want to promote it? Create a website for it now with BashMobarmeg.
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Building+Modern+Web+Interfaces;Turning+Ideas+Into+Professional+Websites" alt="Typing SVG" />
