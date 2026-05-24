@@ -17,9 +17,11 @@
 </div>
 
 ---
-## Do you have a project or business and want to promote it? Create a website for it now with BashMobarmeg.
 
 # 🇺🇸 English
+
+## Do you have a project or business and want to promote it? Create a website for it now with BashMobarmeg.
+
 <div id="english"></div>
 
 ## 👨‍💻 About Me
@@ -90,6 +92,7 @@ Coming Soon...
 ---
 
 # 🇸🇦 العربية
+## لديك مشروع او عمل وتريد ان تُشهره ؟ انشئ موقعاً له الآن مع BashMobarmeg
 
 <div id="arabic" dir="rtl" align="right">
 
