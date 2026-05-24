@@ -1,5 +1,5 @@
 # BashMobarmeg
-## لديك مشروع او عمل وتريد ان تُشهره ؟ انشئ موقعاً له الآن مع BashMobarmeg | Do you have a project or business and want to promote it? Create a website for it now with BashMobarmeg.
+## Do you have a project or business and want to promote it? Create a website for it now with BashMobarmeg.
 
 <div align="center">
 
