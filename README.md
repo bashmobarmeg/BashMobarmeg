@@ -79,7 +79,7 @@ https://bashmobarmeg.github.io/calculator/
 ---
 
 ### 🔐 Login Interface
-Coming Soon...
+https://bashmobarmeg.github.io/Link-Hub/
 
 ---
 
@@ -147,7 +147,7 @@ https://bashmobarmeg.github.io/calculator/
 ---
 
 ### 🔐 واجهة تسجيل الدخول
-قريبًا...
+https://bashmobarmeg.github.io/Link-Hub/
 
 ---
 
