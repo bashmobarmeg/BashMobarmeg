@@ -153,8 +153,15 @@ https://bashmobarmeg.github.io/calculator/
 
 ## 📞 التواصل
 
-- واتساب: 96969264  
-- GitHub: https://github.com/bashmobarmeg  
+- واتساب: 96969264
+- ديسكورد : abo.shaheen.dev
+<a href="https://github.com/bashmobarmeg">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61590326522454">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a> 
 
 </div>
 
