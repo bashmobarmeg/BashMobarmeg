@@ -1,4 +1,4 @@
-# BashMobarmeg
+# Abo Shaheen
 
 <div align="center">
 
@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **BashMobarmeg**.
+Hi, I'm **Abo Shaheen**.
 
 A Front-End Developer specialized in transforming ideas into professional web experiences.
 
@@ -96,7 +96,7 @@ Coming Soon...
 
 ## 👨‍💻 نبذة عني
 
-مرحبًا، أنا **BashMobarmeg**.
+مرحبًا، أنا **Abo Shaheen**.
 
 مطور Front-End متخصص في تحويل الأفكار إلى مواقع ويب احترافية.
 
