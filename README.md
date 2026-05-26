@@ -85,8 +85,19 @@ Coming Soon...
 
 ## 📞 Contact
 
-- WhatsApp: 96969264  
-- GitHub: https://github.com/bashmobarmeg  
+- WhatsApp: 96969264
+
+<a href="https://github.com/bashmobarmeg">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61590326522454">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/abo.shaheen.dev">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
 ---
 
